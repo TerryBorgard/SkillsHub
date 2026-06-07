@@ -1,8 +1,7 @@
 {
-  "name": "@wow/skills-hub",
+  "name": "@dtt_wow/skills-hub",
   "version": "1.0.0",
-  "description": "Volvo 团队 Claude Code 工具集 - skills、hooks 等",
-  "private": true,
+  "description": "Claude Code Skills 快速安装工具 - skills、hooks 等",
   "scripts": {
     "postinstall": "node install.js",
     "preuninstall": "node uninstall.js"
