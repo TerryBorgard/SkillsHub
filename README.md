@@ -1,11 +1,11 @@
-# @volvo/claude-tools
+# @wow/skills-hub
 
-Volvo 团队 Claude Code 工具集。通过 npm 一键安装 skills、hooks 和配置到 `~/.claude/`。
+Claude Code Skills 快速安装工具。通过 npm 一键安装 skills、hooks 和配置到 `~/.claude/`。
 
 ## 安装
 
 ```bash
-npm install @volvo/claude-tools
+npm install @wow/skills-hub
 ```
 
 安装后自动将 skills、hooks、CLAUDE.md 和 settings.json 同步到 `~/.claude/` 目录。
@@ -13,7 +13,7 @@ npm install @volvo/claude-tools
 ## 更新
 
 ```bash
-npm update @volvo/claude-tools
+npm update @wow/skills-hub
 ```
 
 更新时会自动覆盖所有文件，保证团队一致性。
@@ -21,7 +21,7 @@ npm update @volvo/claude-tools
 ## 卸载
 
 ```bash
-npm uninstall @volvo/claude-tools
+npm uninstall @wow/skills-hub
 ```
 
 卸载时自动恢复原始配置，不留残留。
@@ -29,7 +29,7 @@ npm uninstall @volvo/claude-tools
 ## 目录结构
 
 ```
-node_modules/@volvo/claude-tools/
+node_modules/@wow/skills-hub/
 ├── claude/
 │   ├── skills/          # → ~/.claude/skills/（覆盖目录）
 │   ├── hooks/           # → ~/.claude/hooks/（覆盖文件，设可执行权限）

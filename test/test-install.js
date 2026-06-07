@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * @volvo/claude-tools 集成测试
+ * @wow/skills-hub 集成测试
  *
  * 在临时目录中模拟完整的安装/卸载流程，
  * 验证文件是否正确复制、manifest 是否正常记录、卸载是否完整清理。
@@ -109,7 +109,7 @@ assertFileContent(
 );
 assertFileContent(
   path.join(TEST_CLAUDE_DIR, 'CLAUDE.md'),
-  '@volvo/claude-tools 全局指令',
+  '@wow/skills-hub 全局指令',
   'CLAUDE.md has appended package content'
 );
 

@@ -1,3 +1,3 @@
 #!/bin/bash
-# @volvo/claude-tools 示例 hook
+# @wow/skills-hub 示例 hook
 echo "[claude-tools] Session started at $(date)" >> /tmp/claude-tools.log

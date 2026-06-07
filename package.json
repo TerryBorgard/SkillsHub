@@ -1,5 +1,5 @@
 {
-  "name": "@volvo/claude-tools",
+  "name": "@wow/skills-hub",
   "version": "1.0.0",
   "description": "Volvo 团队 Claude Code 工具集 - skills、hooks 等",
   "private": true,

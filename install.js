@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 
-const PACKAGE_NAME = '@volvo/claude-tools';
+const PACKAGE_NAME = '@wow/skills-hub';
 const CLAUDE_DIR = path.join(os.homedir(), '.claude');
 const MANIFEST_PATH = path.join(CLAUDE_DIR, '.claude-tools-manifest.json');
 const BACKUPS_DIR = path.join(CLAUDE_DIR, '.claude-tools-backups');

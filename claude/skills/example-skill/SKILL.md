@@ -1,6 +1,6 @@
 ---
 name: example-skill
-description: 示例 skill - 展示 @volvo/claude-tools 的安装功能
+description: 示例 skill - 展示 @wow/skills-hub 的安装功能
 ---
 
 # Example Skill
