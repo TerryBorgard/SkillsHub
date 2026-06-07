@@ -1,0 +1,20 @@
+{
+  "name": "@volvo/claude-tools",
+  "version": "1.0.0",
+  "description": "Volvo 团队 Claude Code 工具集 - skills、hooks 等",
+  "private": true,
+  "scripts": {
+    "postinstall": "node install.js",
+    "preuninstall": "node uninstall.js"
+  },
+  "files": [
+    "claude/",
+    "volvo-config/",
+    "install.js",
+    "uninstall.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

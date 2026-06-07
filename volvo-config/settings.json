@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "allow": ["bash", "read", "write", "edit", "glob", "grep"]
+  }
+}
