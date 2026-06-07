@@ -1,6 +1,6 @@
 {
   "name": "@dtt_wow/skills-hub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Claude Code Skills 快速安装工具 - skills、hooks 等",
   "scripts": {
     "postinstall": "node install.js",
