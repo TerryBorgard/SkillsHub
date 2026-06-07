@@ -15,5 +15,8 @@
   ],
   "engines": {
     "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@dtt_wow/skills-hub": "^1.0.0"
   }
 }
